@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--General Dimensions-->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="empty_state_image_max_size">72dp</dimen>
+    <!--General Dimensions-->
+
+</resources>
