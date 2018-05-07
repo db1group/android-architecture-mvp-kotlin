@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--Dialogs begin-->
+    <string name="ok">OK</string>
+    <!--Dialogs end-->
+
+    <!-- Messages-->
+    <string name="progress_message_default" tools:ignore="TypographyEllipsis">Por favor aguarde, consultando ...</string>
+    <string name="empty_list">Empty list</string>
+</resources>
