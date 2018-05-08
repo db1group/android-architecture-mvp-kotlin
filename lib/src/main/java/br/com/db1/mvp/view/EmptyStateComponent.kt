@@ -1,4 +1,4 @@
-package br.com.db1.kotlinmvparchitecture.view
+package br.com.db1.mvp.view
 
 import android.content.Context
 import android.support.annotation.DrawableRes
@@ -8,9 +8,9 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.RelativeLayout
 import android.widget.TextView
-import br.com.db1.kotlinmvparchitecture.R
-import br.com.db1.kotlinmvparchitecture.R2
-import br.com.db1.kotlinmvparchitecture.util.LogUtils
+import br.com.db1.mvp.R
+import br.com.db1.mvp.R2
+import br.com.db1.mvp.util.LogUtils
 import butterknife.BindView
 import butterknife.ButterKnife
 

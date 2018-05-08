@@ -1,4 +1,4 @@
-package br.com.db1.kotlinmvparchitecture.view
+package br.com.db1.mvp.view
 
 import android.content.DialogInterface
 import android.support.annotation.DrawableRes

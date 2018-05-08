@@ -1,4 +1,4 @@
-package br.com.db1.kotlinmvparchitecture.util
+package br.com.db1.mvp.util
 
 import android.util.Log
 import com.crashlytics.android.Crashlytics

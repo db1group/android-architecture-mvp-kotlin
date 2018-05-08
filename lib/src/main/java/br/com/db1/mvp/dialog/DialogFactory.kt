@@ -1,4 +1,4 @@
-package br.com.db1.kotlinmvparchitecture.dialog
+package br.com.db1.mvp.dialog
 
 import android.app.AlertDialog
 import android.app.Dialog

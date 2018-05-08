@@ -1,4 +1,4 @@
-package br.com.db1.kotlinmvparchitecture.view
+package br.com.db1.mvp.view
 
 import android.content.Context
 import android.content.DialogInterface
@@ -12,7 +12,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.view.inputmethod.InputMethodManager
-import br.com.db1.kotlinmvparchitecture.util.LogUtils
+import br.com.db1.mvp.util.LogUtils
 import butterknife.ButterKnife
 
 /**

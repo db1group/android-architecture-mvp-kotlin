@@ -1,4 +1,4 @@
-package br.com.db1.kotlinmvparchitecture.view
+package br.com.db1.mvp.view
 
 import android.content.DialogInterface
 import android.graphics.Color
@@ -11,7 +11,7 @@ import android.support.v7.app.AppCompatActivity
 import android.support.v7.app.AppCompatDelegate
 import android.view.View
 import android.view.WindowManager
-import br.com.db1.kotlinmvparchitecture.util.LogUtils
+import br.com.db1.mvp.util.LogUtils
 import butterknife.ButterKnife
 import io.reactivex.disposables.CompositeDisposable
 

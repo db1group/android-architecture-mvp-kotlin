@@ -1,6 +1,6 @@
-package br.com.db1.kotlinmvparchitecture.presenter
+package br.com.db1.mvp.presenter
 
-import br.com.db1.kotlinmvparchitecture.view.IView
+import br.com.db1.mvp.view.IView
 import io.reactivex.disposables.CompositeDisposable
 
 /**

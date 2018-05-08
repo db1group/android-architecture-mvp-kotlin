@@ -1,13 +1,13 @@
-package br.com.db1.kotlinmvparchitecture.view
+package br.com.db1.mvp.view
 
 import android.app.ProgressDialog
 import android.content.DialogInterface
 import android.support.annotation.DrawableRes
 import android.support.annotation.StringRes
 import android.support.v4.app.FragmentActivity
-import br.com.db1.kotlinmvparchitecture.R
-import br.com.db1.kotlinmvparchitecture.dialog.DialogFactory
-import br.com.db1.kotlinmvparchitecture.util.StringUtils
+import br.com.db1.mvp.R
+import br.com.db1.mvp.dialog.DialogFactory
+import br.com.db1.mvp.util.StringUtils
 
 /**
  * Created by vinicius.camargo on 04/05/2018
